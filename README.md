@@ -1,1 +1,1 @@
-More pointers and array assignment
+even more pointers
